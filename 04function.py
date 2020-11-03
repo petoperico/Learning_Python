@@ -2,7 +2,8 @@
 
 
 def hello(name='person', lastname='exposito'):
-    """Function that return 'Hello World'.
+    """
+    Function that return 'Hello World'.
     name: string,
     lastname: string,
 
